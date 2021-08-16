@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gudilin-n
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ******
+- 📫 How to reach me on instagram @nikitikitoo
 
 <!---
 gudilin-n/gudilin-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
