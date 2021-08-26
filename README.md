@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gudilin-n
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science/Data Analytics
 - 🌱 I’m currently learning Data Analysis in Yandex
 - 💞️ I’m looking to collaborate on ******
 - 📫 How to reach me on instagram @nikitikitoo
