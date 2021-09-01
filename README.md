@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gudilin-n&label=Profile%20views&color=0e75b6&style=flat" alt="gudilin-n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudilin-n" alt="gudilin-n" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudilin-n" alt="gudilin-n" /></a> </p>
 
 - 👀 I’m interested in Data Science/Data Analytics
 
