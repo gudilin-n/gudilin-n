@@ -31,7 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gudilin-n&show_icons=true&locale=en&theme=tokyonight" alt="gudilin-n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gudilin-n&" alt="gudilin-n" /></p>
 
 
 <!---
