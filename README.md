@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gudilin Nickita</h1>
 <h2 align="center">Novice Data Analyst from Russia</h3>
 <h3 align="left">Main Info:</h3>
+
 - 👀 I’m interested in Data Science/Data Analytics
 
 - 🌱 I’m currently learning **Data Analysis in Yandex**
