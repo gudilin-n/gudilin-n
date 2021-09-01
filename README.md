@@ -1,19 +1,11 @@
-<!-- - 👋 Hi, I’m @gudilin-n
-- 👀 I’m interested in Data Science/Data Analytics
-- 🌱 I’m currently learning Data Analysis in Yandex
-- 💞️ I’m looking to collaborate on Yandex
-- 📫 How to reach me on instagram @nikitikitoo
-
-<!---
-gudilin-n/gudilin-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> -->
 <h1 align="center">Hi 👋, I'm Gudilin Nickita</h1>
 <h3 align="center">Novice analyst from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gudilin-n&label=Profile%20views&color=0e75b6&style=flat" alt="gudilin-n" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudilin-n" alt="gudilin-n" /></a> </p>
+
+- 👀 I’m interested in Data Science/Data Analytics
 
 - 🌱 I’m currently learning **Data Analysis in Yandex**
 
@@ -39,3 +31,9 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gudilin-n&show_icons=true&locale=en" alt="gudilin-n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gudilin-n&" alt="gudilin-n" /></p>
+
+
+<!---
+gudilin-n/gudilin-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
