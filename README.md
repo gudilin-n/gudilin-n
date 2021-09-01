@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gudilin Nickita</h1>
 <h2 align="center">Novice Data Analyst from Russia</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gudilin-n&label=Profile%20views&color=0e75b6&style=flat" alt="gudilin-n" /> </p>
-
-
 - 👀 I’m interested in Data Science/Data Analytics
 
 - 🌱 I’m currently learning **Data Analysis in Yandex**
@@ -31,6 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gudilin-n&show_icons=true&locale=en&theme=tokyonight" alt="gudilin-n" /></p>
 
+<p align="rigth"> <img src="https://komarev.com/ghpvc/?username=gudilin-n&label=Profile%20views&color=0e75b6&style=flat" alt="gudilin-n" /> </p>
 
 
 <!---
