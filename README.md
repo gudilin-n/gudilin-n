@@ -22,6 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1187765724451868673/uVw1PWA7.png" alt="pandas" width="40" height="40"/> </a>  
+<a href="https://www.scipy.org/" target="_blank"> <img src="https://yt3.ggpht.com/a/AATXAJwX2W_Hn7jlzTlnhp4W7MRA7iMT--KrkQIjBhv53Q=s900-c-k-c0xffffffff-no-rj-mo" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img                                                                                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
