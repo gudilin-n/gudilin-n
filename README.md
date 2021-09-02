@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gudilin-n?tab=repositories](https://github.com/gudilin-n?tab=repositories)
 
-- 💬 Ask me about **sklearn, scipy, pandas**
+- 💬 Ask me about **sklearn, scipy, numpy, pandas**
 
 - 📫 How to reach me **on instagram @nikitikitoo**
 
@@ -31,7 +31,9 @@ width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gudilin-n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gudilin-n" /></p>
 
